@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3f7b51c3-2dfe-47bc-a709-257b11db824b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 721,
+  "height": 427,
+  "platformSettings": {},
+  "subMetas": {
+    "剑17": {
+      "ver": "1.0.4",
+      "uuid": "9972d472-6b66-412b-9454-e6910d5de593",
+      "rawTextureUuid": "3f7b51c3-2dfe-47bc-a709-257b11db824b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -124,
+      "offsetY": -131,
+      "trimX": 151,
+      "trimY": 292,
+      "width": 171,
+      "height": 105,
+      "rawWidth": 721,
+      "rawHeight": 427,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

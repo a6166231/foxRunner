@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "stand",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "foxIcon": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "359866a1-c326-4fa0-bc96-cbce0d308ec9"
+                }
+              }
+            ]
+          }
+        },
+        "props": {}
+      }
+    }
+  },
+  "events": []
+}

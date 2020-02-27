@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "walking",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "foxIcon": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "8e058c33-d8aa-44db-a206-7275bef810e8"
+                }
+              },
+              {
+                "frame": 0.016666666666666666,
+                "value": {
+                  "__uuid__": "6f294f20-ec02-4eba-a2a4-b3069c87df5e"
+                }
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": {
+                  "__uuid__": "02d061f3-2462-4a37-898a-3f90458d6b4f"
+                }
+              },
+              {
+                "frame": 0.05,
+                "value": {
+                  "__uuid__": "4dd6da87-5556-4b6d-a884-5b6335d73988"
+                }
+              }
+            ]
+          }
+        },
+        "props": {}
+      }
+    }
+  },
+  "events": []
+}
